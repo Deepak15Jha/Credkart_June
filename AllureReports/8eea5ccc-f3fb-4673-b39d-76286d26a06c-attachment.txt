@@ -1,0 +1,12 @@
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:111 Testcase test_CredKart_Registration_003 is started
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:112 Opening browser and landing on login page--https://automation.credence.in/register
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:119 Entering name--Jennifer Wagner
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:123 Entering email--michael62@example.com
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:127 Entering password
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:131 Entering confirm password
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:135 Clicking on registration button
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:139 Verifying user registration
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:141 user Registration Successfully
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:143 Clicking on menu button
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:145 Clicking on logout link
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:153 Testcase test_CredKart_Registration_003 is completed

@@ -1,0 +1,5 @@
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile_001.py:44 Testcase test_CredKart_Title_001 is started
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile_001.py:45 Opening browser and landing on login page--https://automation.credence.in/login
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile_001.py:54 Checking title of login page
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile_001.py:56 Landed on correct page and it's title is: CredKart
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile_001.py:70 Testcase test_CredKart_Title_001 is completed

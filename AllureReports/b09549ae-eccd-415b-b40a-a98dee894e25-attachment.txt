@@ -1,0 +1,10 @@
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:42 Testcase test_CredKart_Title_001 is started
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:43 Opening browser and landing on login page--https://automation.credence.in/login
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:52 Checking title of login page
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:64 Landed on incorrect page and it's title is: CredKart
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:65 Taking screenshot
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:42 Testcase test_CredKart_Title_001 is started
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:43 Opening browser and landing on login page--https://automation.credence.in/login
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:52 Checking title of login page
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:64 Landed on incorrect page and it's title is: CredKart
+[32mINFO    [0m utilities.Logger:test_Credkart_User_Profile.py:65 Taking screenshot
