@@ -1,0 +1,1 @@
+pytest -v  -s -n auto --html=HTMALReports/My_Report_Headless.html --browser headless
